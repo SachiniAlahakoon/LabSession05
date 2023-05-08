@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTextPersonName1" type="id" />
+    <item name="editTextTextPersonName2" type="id" />
+    <item name="editTextTextPersonName3" type="id" />
+    <item name="editTextTextPersonName4" type="id" />
+    <item name="buttonAddData" type="id" />
+    <item name="buttonViewData" type="id" />
+    <item name="buttonUpdateData" type="id" />
+    <item name="buttonDeleteData" type="id" />
+</resources>
